@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,javascript,laravel,symfony,nodejs,mysql,git,github,docker,firebase" />
+<img src="https://skillicons.dev/icons?i=react,javascript,laravel,symfony,nodejs,mysql,git,github,docker,php,laravel,mysql" />
 
 </p>
 
