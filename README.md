@@ -48,10 +48,14 @@ Multi-stack engineer with a focus on **Clean Architecture** and **Scalable Infra
 
 ### 📈 Technical Impact
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abderrahimbelamfadel-sudo&theme=transparent&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbelamfadel-sudo&theme=transparent&title_color=00f7ff&text_color=ffffff&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahimbelamfadel-sudo&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbelamfadel-sudo&layout=compact&theme=radical&border_radius=10" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahimbelamfadel-sudo&theme=radical&hide_border=false" width="100%" />
+</div>
 
 ---
 
