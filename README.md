@@ -3,27 +3,7 @@
 
 🚀 Full Stack Developer  
 📱 React Native Developer  
-🌍 Based in Morocco
-
----
-
-# 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abderrahimbelamfadel-sudo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahimbelamfadel-sudo&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abderrahimbelamfadel-sudo&theme=tokyonight)
+🌍 Based in Morocco  
 
 ---
 
@@ -33,14 +13,63 @@
 
 ---
 
-# 🚗 Featured Project
+# 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimbelamfadel-sudo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbelamfadel-sudo&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abderrahimbelamfadel-sudo&theme=tokyonight)
+
+---
+
+# 🚗 Featured Projects
 
 ## AGURZ Car Rental
-Car rental platform for agencies and clients.
+Car rental platform connecting agencies and clients.
+
+### Features
+- Authentication
+- CRUD System
+- Car Availability
+- Admin Dashboard
+- Responsive Design
+
+---
+
+# 💻 Currently Learning
+
+- Microservices
+- Clean Architecture
+- DevOps
+- Docker
 
 ---
 
 # 📫 Contact
 
-- LinkedIn
-- Email
+- GitHub: https://github.com/abderrahimbelamfadel-sudo
+
+---
+
+# 🔥 Fun Fact
+
+⚡ I love building scalable mobile and web applications.
