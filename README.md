@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://github.com/abderrahimbelamfadel-sudo"><img src="https://img.shields.io/github/followers/abderrahimbelamfadel-sudo?color=00f7ff&style=for-the-badge&logo=github" alt="Followers"></a>
-    <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Contact-Expert-00f7ff?style=for-the-badge&logo=maildotru" alt="Email"></a>
+    <a href="mailto:abderrahimbelamfadelmobile@gmail.com"><img src="https://img.shields.io/badge/Contact-Expert-00f7ff?style=for-the-badge&logo=maildotru" alt="Email"></a>
   </p>
 </div>
 
