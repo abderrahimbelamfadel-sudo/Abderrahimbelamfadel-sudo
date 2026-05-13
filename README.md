@@ -1,75 +1,79 @@
-# Abderrahimbelamfadelsudo
-# Hi 👋, I'm Abderrahim
+<h1 align="center">Hi 👋, I'm Abderrahim</h1>
+<h3 align="center">🚀 Full Stack & Mobile Developer from Morocco</h3>
 
-🚀 Full Stack Developer  
-📱 React Native Developer  
-🌍 Based in Morocco  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Developer;Laravel+Developer;Building+Modern+Applications" />
+</p>
 
 ---
 
-# ✨ Typing Effect
+# 💫 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;React+Native+Developer;Laravel+Developer)
+- 🔭 Currently working on **AGURZ Car Rental Platform**
+- 📱 Mobile Developer using **React Native**
+- 🌐 Web Developer using **Laravel & Symfony**
+- ⚡ Passionate about scalable applications
+- 🚀 Learning Microservices & DevOps
 
 ---
 
 # 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+<img src="https://skillicons.dev/icons?i=react,reactnative,laravel,symfony,nodejs,mysql,git,github,docker,firebase" />
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-
-![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahimbelamfadel-sudo&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbelamfadel-sudo&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abderrahimbelamfadel-sudo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abderrahimbelamfadel-sudo&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimbelamfadel-sudo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</p>
 
 ---
 
-# 🚗 Featured Projects
+# 🔥 GitHub Streak
 
-## AGURZ Car Rental
-Car rental platform connecting agencies and clients.
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abderrahimbelamfadel-sudo&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</p>
+
+---
+
+# 🚗 Featured Project
+
+## AGURZ Car Rental Platform
 
 ### Features
-- Authentication
-- CRUD System
-- Car Availability
-- Admin Dashboard
-- Responsive Design
+- 🔐 Authentication System
+- 🚗 Car Availability Management
+- 📅 Booking System
+- 📊 Admin Dashboard
+- 📱 Responsive Mobile Design
 
 ---
 
-# 💻 Currently Learning
+# 🌍 Connect With Me
 
-- Microservices
-- Clean Architecture
-- DevOps
-- Docker
+<p align="center">
 
----
+<a href="https://github.com/abderrahimbelamfadel-sudo">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
 
-# 📫 Contact
-
-- GitHub: https://github.com/abderrahimbelamfadel-sudo
+</p>
 
 ---
 
-# 🔥 Fun Fact
-
-⚡ I love building scalable mobile and web applications.
+<p align="center">
+⚡ "Code. Build. Scale." ⚡
+</p>
